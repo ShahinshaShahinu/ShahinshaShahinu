@@ -17,6 +17,17 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShahinshaShahinu&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinshaShahinu&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div align="center">
+             You can help me
+  <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 51px !important;width: 217px !important;">
+  </a>
+</div>
+
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShahinshaShahinu&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
