@@ -24,7 +24,7 @@
 </div>
 
 <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee"  style="height: 51px !important;width: 217px !important;">
 </a>
 
 
