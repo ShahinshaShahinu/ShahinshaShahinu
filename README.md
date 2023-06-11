@@ -23,9 +23,10 @@
   <h1 style="font-family: 'Arial', sans-serif;">☕ You Can Help Me</h1>
 </div>
 
-<a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer" style="display: inline-block; background-color: #FFDD00; color: #000000; text-decoration: none; border: 1px solid #000000; padding: 10px 20px; border-radius: 4px; font-family: 'Inter', sans-serif; font-size: 16px;">
-  Buy me a coffee
+<a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important; width: 217px !important; border-radius: 5px !important; box-shadow: 0px 2px 3px 0px rgba(190, 190, 190, 0.5) !important; -webkit-transition: 0.3s ease-in-out !important; transition: 0.3s ease-in-out !important;">
 </a>
+
 
 
 
