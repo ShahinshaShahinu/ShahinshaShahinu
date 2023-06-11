@@ -20,12 +20,14 @@
 
 <div align="center">
              <div align="center">
-  <h1 style="font-family: 'Arial', sans-serif;">You Can Help Me</h1>
+  <h1 style="font-family: 'Arial', sans-serif;">☕ You Can Help Me</h1>
 </div>
 
   <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 51px !important;width: 217px !important;">
+    <img src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" alt="Buy Me a Coffee">
   </a>
+  
+
 </div>
 
 
@@ -46,6 +48,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ShahinshaShahinu&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+<div align="center">
+             <div align="center">
+  <h1 style="font-family: 'Arial', sans-serif;">☕ You Can Help Me</h1>
+</div>
 
 <div align="center">
 <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
