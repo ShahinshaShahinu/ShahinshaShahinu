@@ -24,9 +24,10 @@
 </div>
 
 <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee"  style="height: 51px !important;width: 217px !important;">
-   <span style="font-size: 16px;">Buy me a coffee</span>
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 51px; width: 217px;">
+  <span style="font-size: 16px;">Buy me a coffee</span>
 </a>
+
 
 
 
