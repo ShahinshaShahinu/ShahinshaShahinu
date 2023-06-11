@@ -6,7 +6,7 @@
 <style>
   .imageP{
  position: absolute;
-  
+  bottom: 9.2%;
   }
 </style>
 
