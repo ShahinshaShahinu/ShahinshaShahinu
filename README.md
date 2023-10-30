@@ -21,7 +21,7 @@
 
 # My Projects
 
-## Project 1: Project Name
+## Project 1: DevCollab 
 
 ![Project 1 Screenshot](https://example.com/project1-screenshot.png)
 
