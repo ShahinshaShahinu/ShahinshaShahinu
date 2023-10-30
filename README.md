@@ -30,7 +30,7 @@
 
 **Features:** List the key features of the project.
 
-**Project Link:** [DevCollab Project]([https://example.com/project1](https://dev-colabs-client.vercel.app/))
+**Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
 
 ---
 
@@ -42,7 +42,7 @@
 
 **Features:** List the key features of the project.
 
-**Project Link:** [Project 2](https://example.com/project2)
+**Project Link:** [Project 2](https://eicer-ecomerce-production.up.railway.app/)
 
 
 
