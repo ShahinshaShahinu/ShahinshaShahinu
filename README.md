@@ -23,7 +23,7 @@
 
 ## 🌟 Project 1: DevCollab
 
-🚀 **Project Link:** [Explore DevCollab](https://dev-colabs-client.vercel.app/)
+###🚀 **Project Link:** [Explore DevCollab](https://dev-colabs-client.vercel.app/)
 
 🌟 **Description:** DevCollab - A Collaboration platform designed for developers to **connect**, **communicate** through chat and video calls using Socket.IO,and **create** posts just like blogs. 💻🌈
 
