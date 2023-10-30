@@ -31,9 +31,7 @@
 **Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
 
 
-# My Projects
-
-## Project 2: E-Commerce
+# 🌟 Project 2: E-Commerce
 
 🌟 **Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
 
