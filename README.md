@@ -22,16 +22,14 @@
 
 # My Projects
 
-## Project 1: DevCollab
-
-**Description:** Briefly describe what this project is about.
-
-**Technologies Used:** List the technologies or programming languages used in the project.
+## 🌟 Project 1: DevCollab
 
 ### 🚀 **Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
 
+🌟 **Description:**  Briefly describe what this project is about.
 
-# 🌟 Project 2: E-Commerce
+
+## 🌟 Project 2: E-Commerce
 
 ### 🚀 **Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
 
