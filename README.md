@@ -28,20 +28,20 @@
 
 **Technologies Used:** List the technologies or programming languages used in the project.
 
-**Features:** List the key features of the project.
-
 **Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
 
----
 
 # My Projects
 
 ## Project 2: E-Commerce
 
-**Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
+🌟 **Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
 
-**Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
+🚀 **Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
 
+
+
+---
 
 
 
