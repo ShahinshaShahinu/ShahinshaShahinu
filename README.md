@@ -42,7 +42,7 @@
 
 **Features:** List the key features of the project.
 
-**Project Link:** [Project 2](https://eicer-ecomerce-production.up.railway.app/)
+**Project Link:** [E-Commerce Project](https://eicer-ecomerce-production.up.railway.app/)
 
 
 
