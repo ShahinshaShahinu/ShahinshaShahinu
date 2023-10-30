@@ -19,14 +19,13 @@
 
 
 
-
 # My Projects
 
 ## 🌟 Project 1: DevCollab
 
-### 🚀 **Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
+🚀 **Project Link:** [Explore DevCollab](https://dev-colabs-client.vercel.app/)
 
-🌟 **Description:**  Briefly describe what this project is about.
+🌟 **Description:** DevCollab - A Collaboration platform designed for developers to **connect**, **communicate** through chat and video calls using Socket.IO,and **create** posts just like blogs. 💻🌈
 
 
 ## 🌟 Project 2: E-Commerce
@@ -39,7 +38,6 @@
 
 
 ---
-
 
 
 
