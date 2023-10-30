@@ -34,15 +34,14 @@
 
 ---
 
-## Project 2: E-Comerce
+# My Projects
 
-**Description:** Briefly describe what this project is about.
+## Project 2: E-Commerce
 
-**Technologies Used:** List the technologies or programming languages used in the project.
+**Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
 
-**Features:** List the key features of the project.
+**Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
 
-**Project Link:** [E-Commerce Project](https://eicer-ecomerce-production.up.railway.app/)
 
 
 
