@@ -19,42 +19,30 @@
 
 
 
+
 # My Projects
 
-## Project 1: DevCollab 
+## Project 1: DevCollab
 
-![Project 1 Screenshot](https://example.com/project1-screenshot.png)
+**Description:** Briefly describe what this project is about.
 
-Description: Briefly describe what this project is about.
+**Technologies Used:** List the technologies or programming languages used in the project.
 
-### Technologies Used
-- List the technologies or programming languages used in the project.
+**Features:** List the key features of the project.
 
-### Features
-- List the key features of the project.
+**Project Link:** [DevCollab Project](https://example.com/project1)
 
-### GitHub Repository
-[Link to Project 1 on GitHub](https://github.com/yourusername/project1)
+---
 
-## Project 2: Project Name
+## Project 2: E-Comerce
 
-![Project 2 Screenshot](https://example.com/project2-screenshot.png)
+**Description:** Briefly describe what this project is about.
 
-Description: Briefly describe what this project is about.
+**Technologies Used:** List the technologies or programming languages used in the project.
 
-### Technologies Used
-- List the technologies or programming languages used in the project.
+**Features:** List the key features of the project.
 
-### Features
-- List the key features of the project.
-
-### GitHub Repository
-[Link to Project 2 on GitHub](https://github.com/yourusername/project2)
-
-
-
-
-
+**Project Link:** [Project 2](https://example.com/project2)
 
 
 
