@@ -28,14 +28,15 @@
 
 **Technologies Used:** List the technologies or programming languages used in the project.
 
-**Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
+### 🚀 **Project Link:** [DevCollab Project](https://dev-colabs-client.vercel.app/)
 
 
 # 🌟 Project 2: E-Commerce
 
+### 🚀 **Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
+
 🌟 **Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
 
-### 🚀 **Project Link:** [Explore E-Commerce](https://eicer-ecomerce-production.up.railway.app/)
 
 
 
