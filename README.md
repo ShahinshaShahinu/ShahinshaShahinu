@@ -23,14 +23,14 @@
 
 ## 🌟 Project 1:  DevCollab
 
-###🚀 **Project Link:** [Explore https://devcolab.com/](https://dev-colabs-client.vercel.app/)
+###🚀 **Project Link:** [ https://devcolab.com/](https://dev-colabs-client.vercel.app/)
 
 🌟 **Description:** DevCollab - A Collaboration platform designed for developers to **connect**, **communicate** through chat and video calls using Socket.IO,**create** posts just like blogs. 💻🌈
 
 
 ## 🌟 Project 2:  E-Commerce
 
-### 🚀 **Project Link:** [Explore https://E-Commerce.com/](https://eicer-ecomerce-production.up.railway.app/)
+### 🚀 **Project Link:** [ https://E-Commerce.com/](https://eicer-ecomerce-production.up.railway.app/)
 
 🌟 **Description:** E-Commerce website featuring Razorpay integration, wishlist, add to cart, and purchase functionality.
 
