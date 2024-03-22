@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 <img class="imageP" align="right" alt="coding" width="300" src="https://github.com/ShahinshaShahinu/ShahinshaShahinu/assets/122088649/c9f6166e-4fc8-46e0-9b84-24561899a729">
+
 ![coding](https://github.com/ShahinshaShahinu/ShahinshaShahinu/assets/122088649/c9f6166e-4fc8-46e0-9b84-24561899a729)
 
 
