@@ -72,20 +72,6 @@
 
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShahinshaShahinu&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@Mhd_shahinshaH)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=ShahinshaShahinu&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
-
-
 <div align="center">
              <div align="center">
   <h1 style="font-family: 'Arial', sans-serif;">☕ You Can Help Me</h1>
