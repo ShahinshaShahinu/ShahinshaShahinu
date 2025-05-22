@@ -56,10 +56,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahinshaShahinu&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<div align="center">
-             <div align="center">
-  <h1 style="font-family: 'Arial', sans-serif;">☕ You Can Help Me</h1>
-</div>
+
 
 <a href="https://www.buymeacoffee.com/muhammedsht" target="_blank" rel="noopener noreferrer">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 51px !important; width: 217px !important; border-radius: 5px !important; box-shadow: 0px 2px 3px 0px rgba(190, 190, 190, 0.5) !important; -webkit-transition: 0.3s ease-in-out !important; transition: 0.3s ease-in-out !important;">
