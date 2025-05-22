@@ -15,10 +15,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/muhammedshahinsha2442/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MuhammedShahinsha)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahinsha_shahinu)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ShahinshaShahinu)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Mhd_shahinshaH)
-
 ---
 
 ## 💻 Tech Stack
