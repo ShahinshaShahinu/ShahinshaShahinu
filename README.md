@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahinsha</h1>
 <h3 align="center">🚀 MERN Stack & Full-Stack Developer | Passionate Problem Solver</h3>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/213916501-45c97c92-2582-4c3a-a8d1-d4efbaf1c051.gif" width="400"/>
 
 - 💻 I am a **Software Engineer**  
 - ⚡ Proficient in **MERN Stack** and building scalable full-stack applications  
